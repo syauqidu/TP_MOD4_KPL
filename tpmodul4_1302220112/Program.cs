@@ -12,7 +12,7 @@ public class KodePos
     }
 }
 
-public class Program
+/*public class Program
 {
     public static void Main(String[] args)
     {
@@ -22,4 +22,4 @@ public class Program
             Console.WriteLine("Kode Pos Kelurahan " + kodePos.kelurahan[i] + ": " + kodePos.getKodePos(i));
         }
     }
-}
+}*/
